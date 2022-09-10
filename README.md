@@ -9,7 +9,7 @@
 
 - react18
 - yarn
-  で進めていく
+  のローカル環境にて進めていく
 
 # Getting Started with Create React App
 
