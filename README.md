@@ -1,3 +1,16 @@
+# 学習用リポジトリ
+
+[Udemy 講座 React に入門した人のためのもっと React が楽しくなるステップアップコース完全版](https://www.udemy.com/course/react_stepup/)
+の学習用リポジトリ
+
+## 開発環境
+
+講座では react17 を使用しているが
+
+- react18
+- yarn
+  で進めていく
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
